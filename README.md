@@ -31,6 +31,7 @@ _(to uninstall, just remove the dll VFP9FRA.DLL)_
 **Merci de consulter la rubrique "[Licence](LICENSE.md)"**
 _(Please see the License topic)_
 
+
 ----------
 
 ## Outils VFP9 (VFP9 Tools) - XSOURCE
@@ -39,32 +40,36 @@ La localisation des outils a été produite par l'équipe de localisation de Ato
 _(The localization of the VFP9 tools has been done by the team of AtoutFox)_
 
 
-* **VFP9 SP1 :**
-	- Gestion des rapports _(ReportBuilder, ReportOutput, ReportPreview)_  
-	- Explorateur de Classes _(Browser)_  
-	- Explorateur d’Objets _(ObjectBrowser)_  
-	- Explorateur de Données _(DataExplorer)_   
-	- Centre d’Informations _(TaskPane)_  
-	- Liste des Tâches _(TaskList)_  
-	- Boite à Outils _(Toolbox)_ 
-	- Recherche dans les Sources _(Foxref)_ 
+### VFP9 SP1 :
+* Gestion des rapports _(ReportBuilder, ReportOutput, ReportPreview)_  
+* Explorateur de Classes _(Browser)_  
+* Explorateur d’Objets _(ObjectBrowser)_  
+* Explorateur de Données _(DataExplorer)_   
+* Centre d’Informations _(TaskPane)_  
+* Liste des Tâches _(TaskList)_  
+* Boite à Outils _(Toolbox)_ 
+* Recherche dans les Sources _(Foxref)_ 
 
-* **VFP9 SP2 :**
-	- Gestion des rapports _(ReportBuilder, ReportOutput, ReportPreview)_  
-	- Explorateur de Classes _(Browser)_  
-	- Explorateur d’Objets _(ObjectBrowser)_  
-	- ~~Explorateur de Données~~ _(DataExplorer)_ 
-	- Centre d’Informations _(TaskPane)_  
-	- Liste des Tâches _(TaskList)_  
-	- Boite à Outils _(Toolbox)_  
-	- Recherche dans les Sources _(Foxref)_  
 
-* **SEDNA VFP9 SP2:**
-	- My.chm en Français _(My.chm in French)_
-	- Assistant Migration _(Upsizing wizard)_
+### VFP9 SP2 :
+* Gestion des rapports _(ReportBuilder, ReportOutput, ReportPreview)_  
+* Explorateur de Classes _(Browser)_  
+* Explorateur d’Objets _(ObjectBrowser)_  
+* ~~Explorateur de Données~~ _(DataExplorer)_ 
+* Centre d’Informations _(TaskPane)_  
+* Liste des Tâches _(TaskList)_  
+* Boite à Outils _(Toolbox)_  
+* Recherche dans les Sources _(Foxref)_  
 
-* **VFP9 Tools**
-	- GENMENU en Français 
+
+### SEDNA VFP9 SP2:
+* My.chm en Français _(My.chm in French)_
+* Assistant Migration _(Upsizing wizard)_
+
+
+### VFP9 Tools
+* GENMENU en Français 
+
 
 
 **Comment installer ? (How to Install?)**
