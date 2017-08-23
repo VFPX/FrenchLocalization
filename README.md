@@ -5,9 +5,9 @@ Project Manager: [Francis FAURE](https://github.com/FrancisFaure)
 
 ![](images/hr-g.png)
 
-# Bonjour et bienvenue sur l'espace VFPX dédié à la localisation de l'IDE VFP9 et de ses outils.
+# Bienvenue sur l'espace VFPX dédié à la localisation de l'IDE VFP9 et de ses outils.
 
-_(Hello and welcome on VFPX project dedicated to the French-localized IDE and tools for VFP9)_
+_(Welcome on VFPX project dedicated to the French-localized IDE and tools for VFP9)_
 
 ----------
 
@@ -36,7 +36,6 @@ _(Please see the License topic)_
 ## Outils VFP9 (VFP9 Tools) - XSOURCE
 
 La localisation des outils a été produite par l'équipe de localisation de Atoutfox : le site de la communauté francophone [http://www.atoutfox.org](http://www.atoutfox.org)
-
 _(The localization of the VFP9 tools has been done by the team of AtoutFox)_
 
 
@@ -61,7 +60,7 @@ _(The localization of the VFP9 tools has been done by the team of AtoutFox)_
 	- Recherche dans les Sources _(Foxref)_  
 
 * **SEDNA VFP9 SP2:**
-	- My.chm en Français (My.chm in French)
+	- My.chm en Français _(My.chm in French)_
 	- Assistant Migration _(Upsizing wizard)_
 
 * **VFP9 Tools**
